@@ -1,0 +1,47 @@
+#head{
+    background-color: black;
+color: white;
+width: 100%;
+border: 8px solid orangered;
+margin-top: 0;
+font-size: 35px;
+text-align: center;
+font-family: cursive;
+}
+
+#pla{
+
+border-radius: 30px;
+border: 6px solid orange;
+color: white;
+background-color: black;
+}
+
+#ins{
+
+    border-radius: 30px;
+    border: 6px solid orange;
+    color: white;
+    background-color: black;
+    }
+
+    #status{
+
+        border-radius: 30px;
+        border: 6px solid orange;
+        color: white;
+        background-color: black;
+width:20%
+
+    }
+
+    #yf {
+        border: 6px solid orange;
+        background-color: black;
+        color: white;
+        margin: 0 ;
+        padding: 10px;
+         position:fixed;
+         bottom : 0 ; 
+        width: 100%;
+        }
